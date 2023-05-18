@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 
 bien master
+=======
+hola  cabecera
+
+todo bien jhajajajaj
+>>>>>>> cabecera
